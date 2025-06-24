@@ -141,20 +141,4 @@ docker logs <nginx_container_id>
 
 ---
 
-## 🚀 Submission
 
-- Push your project to **GitHub** or **GitLab**
-- Include this `README.md` in the root directory
-- Submit your repository link as instructed
-
----
-
-## 👨‍💻 Author Notes
-
-This project is for **learning and demonstration** only.
-
-> For production:
-- Use a production-ready WSGI server (e.g., Gunicorn) for Python.
-- Apply **security best practices** for Nginx and Docker.
-
----
