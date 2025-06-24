@@ -11,25 +11,8 @@ This project demonstrates a production-style **microservices** setup using **Doc
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/5067ef87-16fa-4bf3-9861-deab02421ec0)
 
-```
-.
-├── docker-compose.yml
-├── nginx/
-│   ├── Dockerfile
-│   └── nginx.conf
-├── service_1/
-│   ├── Dockerfile
-│   ├── main.go
-│   └── README.md
-├── service_2/
-│   ├── Dockerfile
-│   ├── app.py
-│   ├── pyproject.toml
-│   ├── uv.lock
-│   └── README.md
-└── readme.md
-```
 
 ---
 
